@@ -154,31 +154,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Character.cpp" />
-    <ClCompile Include="ConsoleRenderer.cpp" />
-    <ClCompile Include="Event.cpp" />
-    <ClCompile Include="Inventory.cpp" />
-    <ClCompile Include="Item.cpp" />
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Npc.cpp" />
-    <ClCompile Include="Player.cpp" />
-    <ClCompile Include="Race.cpp" />
-    <ClCompile Include="Racecourse.cpp" />
-    <ClCompile Include="Training.cpp" />
-    <ClCompile Include="Uma.cpp" />
+    <ClCompile Include="src\Character.cpp" />
+    <ClCompile Include="src\ConsoleRenderer.cpp" />
+    <ClCompile Include="src\Event.cpp" />
+    <ClCompile Include="src\Inventory.cpp" />
+    <ClCompile Include="src\Item.cpp" />
+    <ClCompile Include="src\Main.cpp" />
+    <ClCompile Include="src\Npc.cpp" />
+    <ClCompile Include="src\Player.cpp" />
+    <ClCompile Include="src\Race.cpp" />
+    <ClCompile Include="src\Racecourse.cpp" />
+    <ClCompile Include="src\Training.cpp" />
+    <ClCompile Include="src\Uma.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Character.h" />
-    <ClInclude Include="ConsoleRenderer.h" />
-    <ClInclude Include="Event.h" />
-    <ClInclude Include="Inventory.h" />
-    <ClInclude Include="Item.h" />
-    <ClInclude Include="Npc.h" />
-    <ClInclude Include="Player.h" />
-    <ClInclude Include="Race.h" />
-    <ClInclude Include="Racecourse.h" />
-    <ClInclude Include="Training.h" />
-    <ClInclude Include="Uma.h" />
+    <ClInclude Include="src\Character.h" />
+    <ClInclude Include="src\ConsoleRenderer.h" />
+    <ClInclude Include="src\Event.h" />
+    <ClInclude Include="src\Inventory.h" />
+    <ClInclude Include="src\Item.h" />
+    <ClInclude Include="src\Npc.h" />
+    <ClInclude Include="src\Player.h" />
+    <ClInclude Include="src\Race.h" />
+    <ClInclude Include="src\Racecourse.h" />
+    <ClInclude Include="src\Training.h" />
+    <ClInclude Include="src\Uma.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
