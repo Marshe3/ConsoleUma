@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.aps
+*.ncb
+*.opendb
+*.sdf
+*.cache
+*.ilk
+*.log
+*.pdb
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+
+# JetBrains (Rider/CLion)
+.idea/
+cmake-build-*/
+_ReSharper.Caches/
+riderModule.iml
+
+# MSBuild
+bin/
+obj/
+/packages/
+
+# OS files
+.DS_Store
+Thumbs.db
